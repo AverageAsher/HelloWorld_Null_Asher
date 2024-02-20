@@ -24,7 +24,7 @@ namespace HelloWorld_Null_Asher
             // takes the imputs and outputs your full name //
             fullName = ($"Your name is {firstName} {lastName}");
 
-
+             
             Console.WriteLine(fullName);
         }
     }
